@@ -1,0 +1,114 @@
+{
+  "SLIDESHOW": {
+    "BADGE": "Our Services",
+    "BUTTON_PLAY": "Play",
+    "BUTTON_PAUSE": "Pause",
+    "CONTACT": "Contact Us",
+    "SLIDES": [
+      {
+        "TITLE": "Professional Moving Services",
+        "DESCRIPTION": "We handle your belongings with care and precision. Our experienced team ensures safe transportation of all your items to your new location."
+      },
+      {
+        "TITLE": "Complete Clearance Solutions",
+        "DESCRIPTION": "Fast and efficient clearance services for homes, offices, and commercial spaces. We dispose of items responsibly and environmentally."
+      },
+      {
+        "TITLE": "Deep Cleaning Services",
+        "DESCRIPTION": "Thorough cleaning that leaves your space spotless. From floors to ceilings, we handle every detail with professional equipment."
+      },
+      {
+        "TITLE": "Reliable & Affordable",
+        "DESCRIPTION": "Quality service at competitive prices. We believe everyone deserves professional moving and cleaning assistance without breaking the bank."
+      },
+      {
+        "TITLE": "Experienced Team",
+        "DESCRIPTION": "Our skilled professionals have years of experience in moving, cleaning, and clearance services. Trust us with your most valuable possessions."
+      },
+      {
+        "TITLE": "Customer Satisfaction",
+        "DESCRIPTION": "Your satisfaction is our priority. We go above and beyond to exceed your expectations with every service we provide."
+      },
+      {
+        "TITLE": "Flexible Scheduling",
+        "DESCRIPTION": "We work around your schedule. Available on weekends and evenings for your convenience. Book anytime that suits you best."
+      },
+      {
+        "TITLE": "Eco-Friendly Practices",
+        "DESCRIPTION": "We prioritize environmental responsibility with sustainable disposal methods and recycling whenever possible."
+      },
+      {
+        "TITLE": "Full Insurance Coverage",
+        "DESCRIPTION": "All our services are fully insured, giving you complete peace of mind throughout the entire moving and cleaning process."
+      },
+      {
+        "TITLE": "Same Day Service Available",
+        "DESCRIPTION": "Need urgent help? We offer same-day service for emergency moves and cleaning. Contact us for immediate assistance."
+      },
+      {
+        "TITLE": "Office Relocation Experts",
+        "DESCRIPTION": "Minimize downtime with our efficient office moving services. We handle IT equipment, furniture, and documents with care."
+      },
+      {
+        "TITLE": "Storage Solutions",
+        "DESCRIPTION": "Need temporary storage? We offer secure storage facilities for your belongings during the transition period."
+      },
+      {
+        "TITLE": "Packing & Unpacking Services",
+        "DESCRIPTION": "Save time and effort with our professional packing services. We carefully wrap and box your items, and unpack them at your destination."
+      },
+      {
+        "TITLE": "Post-Construction Cleaning",
+        "DESCRIPTION": "Specialized cleaning after renovations or construction. We remove dust, debris, and residue to make your space move-in ready."
+      },
+      {
+        "TITLE": "Furniture Assembly & Disassembly",
+        "DESCRIPTION": "Expert furniture handling service. We carefully disassemble items for transport and reassemble them perfectly at your new location."
+      },
+      {
+        "TITLE": "Estate Clearance Services",
+        "DESCRIPTION": "Compassionate and professional estate clearance. We handle complete property clearances with respect and efficiency during difficult times."
+      },
+      {
+        "TITLE": "Commercial Cleaning Solutions",
+        "DESCRIPTION": "Keep your business space pristine with our commercial cleaning services. Regular maintenance or one-time deep cleans available."
+      },
+      {
+        "TITLE": "Long Distance Moving",
+        "DESCRIPTION": "Relocating to another city? Our long-distance moving service ensures your belongings arrive safely, no matter the distance."
+      }
+    ]
+  },
+  "ABOUT": {
+    "TITLE": "About Us",
+    "TEXT1": "Welcome to Remzi Hyuseinov Umzug & Reinigung – your reliable partner for moving, clearance, and cleaning services in Rheinland-Pfalz and beyond.",
+    "TEXT2": "Whether it’s a private move, company relocation, or household clearance, our experienced team handles every task with care and efficiency."
+  },
+  "SERVICES": {
+    "TITLE": "Our Services",
+    "MOVING": "Moving",
+    "CLEANING": "Cleaning",
+    "CLEARANCE": "Clearance & Disposal"
+  },
+  "WHY": {
+    "TITLE": "Why Choose Us?",
+    "POINTS": [
+      "Affordable & Transparent Pricing – No hidden costs",
+      "Fast & Efficient – We work quickly and reliably",
+      "Clean & Careful Work – Respectful of your property",
+      "Weekend Availability – We adapt to your schedule",
+      "Friendly & Professional Service"
+    ]
+  },
+  "REVIEWS": {
+    "TITLE": "Customer Reviews",
+    "NO_REVIEWS": "No reviews available yet."
+  },
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "ADDRESS": "Address: Schuberstraße 17, 54516 Wittlich, Germany",
+    "PHONE": "Phone: +49 (0) 152 – 18543024",
+    "EMAIL": "Email: hyuseinovremzi09@gmail.com",
+    "QUOTE": "Request your free quote today — we look forward to hearing from you!"
+  }
+}
