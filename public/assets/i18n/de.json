@@ -1,114 +1,23 @@
 {
-  "SLIDESHOW": {
-    "BADGE": "Unsere Dienstleistungen",
-    "BUTTON_PLAY": "Abspielen",
-    "BUTTON_PAUSE": "Pause",
-    "CONTACT": "Kontaktieren Sie uns",
-    "SLIDES": [
-      {
-        "TITLE": "Professionelle Umzugsdienste",
-        "DESCRIPTION": "Wir behandeln Ihr Eigentum mit Sorgfalt und Präzision. Unser erfahrenes Team sorgt für einen sicheren Transport all Ihrer Gegenstände zu Ihrem neuen Standort."
-      },
-      {
-        "TITLE": "Komplette Entrümpelungslösungen",
-        "DESCRIPTION": "Schnelle und effiziente Entrümpelungsdienste für Häuser, Büros und Geschäftsräume. Wir entsorgen Gegenstände verantwortungsbewusst und umweltfreundlich."
-      },
-      {
-        "TITLE": "Tiefenreinigung",
-        "DESCRIPTION": "Gründliche Reinigung, die Ihre Räume makellos hinterlässt. Vom Boden bis zur Decke kümmern wir uns um jedes Detail mit professioneller Ausrüstung."
-      },
-      {
-        "TITLE": "Zuverlässig & Bezahlbar",
-        "DESCRIPTION": "Qualitätsservice zu wettbewerbsfähigen Preisen. Jeder verdient professionelle Umzugs- und Reinigungsunterstützung ohne hohe Kosten."
-      },
-      {
-        "TITLE": "Erfahrenes Team",
-        "DESCRIPTION": "Unsere qualifizierten Fachkräfte verfügen über jahrelange Erfahrung in den Bereichen Umzug, Reinigung und Entrümpelung. Vertrauen Sie uns Ihre wertvollen Besitztümer an."
-      },
-      {
-        "TITLE": "Kundenzufriedenheit",
-        "DESCRIPTION": "Ihre Zufriedenheit ist unsere Priorität. Wir geben unser Bestes, um Ihre Erwartungen mit jeder Dienstleistung zu übertreffen."
-      },
-      {
-        "TITLE": "Flexible Terminplanung",
-        "DESCRIPTION": "Wir richten uns nach Ihrem Zeitplan. Verfügbar an Wochenenden und Abenden für Ihre Bequemlichkeit. Buchen Sie, wann es Ihnen passt."
-      },
-      {
-        "TITLE": "Umweltfreundliche Praktiken",
-        "DESCRIPTION": "Wir legen Wert auf ökologische Verantwortung mit nachhaltigen Entsorgungsmethoden und Recycling, wann immer möglich."
-      },
-      {
-        "TITLE": "Vollständige Versicherung",
-        "DESCRIPTION": "Alle unsere Dienstleistungen sind vollständig versichert und bieten Ihnen vollständige Sicherheit während des gesamten Prozesses."
-      },
-      {
-        "TITLE": "Gleiche-Tages-Service verfügbar",
-        "DESCRIPTION": "Brauchen Sie schnelle Hilfe? Wir bieten einen gleichen-Tages-Service für dringende Umzüge und Reinigungen an."
-      },
-      {
-        "TITLE": "Experten für Büroumzüge",
-        "DESCRIPTION": "Minimieren Sie Ausfallzeiten mit unseren effizienten Büroumzugsdiensten. Wir behandeln IT-Geräte, Möbel und Dokumente mit Sorgfalt."
-      },
-      {
-        "TITLE": "Lagermöglichkeiten",
-        "DESCRIPTION": "Benötigen Sie eine vorübergehende Lagerung? Wir bieten sichere Lagereinrichtungen für Ihre Gegenstände während der Übergangszeit an."
-      },
-      {
-        "TITLE": "Verpackungs- & Auspackdienste",
-        "DESCRIPTION": "Sparen Sie Zeit und Mühe mit unserem professionellen Verpackungsservice. Wir verpacken Ihre Gegenstände sorgfältig und packen sie am Zielort wieder aus."
-      },
-      {
-        "TITLE": "Nach-Bau-Reinigung",
-        "DESCRIPTION": "Spezialisierte Reinigung nach Renovierung oder Bauarbeiten. Wir entfernen Staub, Schmutz und Rückstände, um Ihr Zuhause bezugsfertig zu machen."
-      },
-      {
-        "TITLE": "Möbelmontage & -demontage",
-        "DESCRIPTION": "Professioneller Möbelservice. Wir demontieren Möbel für den Transport und bauen sie am neuen Standort wieder perfekt auf."
-      },
-      {
-        "TITLE": "Haushaltsauflösung",
-        "DESCRIPTION": "Einfühlsame und professionelle Haushaltsauflösung. Wir kümmern uns respektvoll und effizient um vollständige Räumungen."
-      },
-      {
-        "TITLE": "Gewerbliche Reinigung",
-        "DESCRIPTION": "Halten Sie Ihre Geschäftsräume makellos mit unseren gewerblichen Reinigungsdiensten. Regelmäßige Wartung oder einmalige Tiefenreinigung verfügbar."
-      },
-      {
-        "TITLE": "Fernumzüge",
-        "DESCRIPTION": "Ziehen Sie in eine andere Stadt? Unser Fernumzugsservice sorgt dafür, dass Ihre Sachen sicher ankommen, egal wie weit es ist."
-      }
-    ]
-  },
-  "ABOUT": {
-    "TITLE": "Über uns",
-    "TEXT1": "Willkommen bei Remzi Hyuseinov Umzug & Reinigung – Ihr zuverlässiger Partner für Umzüge, Entrümpelungen und Reinigungen in Rheinland-Pfalz und darüber hinaus.",
-    "TEXT2": "Ob Privatumzug, Firmenumzug oder Haushaltsauflösung – unser erfahrenes Team erledigt jede Aufgabe sorgfältig und effizient."
-  },
-  "SERVICES": {
-    "TITLE": "Unsere Dienstleistungen",
-    "MOVING": "Umzüge",
-    "CLEANING": "Reinigung",
-    "CLEARANCE": "Entrümpelung & Entsorgung"
-  },
-  "WHY": {
-    "TITLE": "Warum uns wählen?",
-    "POINTS": [
-      "Bezahlbare & transparente Preise – Keine versteckten Kosten",
-      "Schnell & effizient – Wir arbeiten zügig und zuverlässig",
-      "Sauber & sorgfältig – Rücksicht auf Ihr Eigentum",
-      "Wochenendverfügbarkeit – Wir passen uns Ihrem Zeitplan an",
-      "Freundlicher & professioneller Service"
-    ]
-  },
-  "REVIEWS": {
-    "TITLE": "Kundenbewertungen",
-    "NO_REVIEWS": "Noch keine Bewertungen verfügbar."
-  },
-  "CONTACT": {
-    "TITLE": "Kontakt",
-    "ADDRESS": "Adresse: Schuberstraße 17, 54516 Wittlich, Deutschland",
-    "PHONE": "Telefon: +49 (0) 152 – 18543024",
-    "EMAIL": "E-Mail: hyuseinovremzi09@gmail.com",
-    "QUOTE": "Fordern Sie noch heute Ihr kostenloses Angebot an – wir freuen uns auf Ihre Anfrage!"
-  }
+  "HELLO": "DUTCH HELLO",
+  "OUR_SERVICES": "Unsere Dienstleistungen",
+  "CONTACT_US": "Kontakt",
+  "CONTACT_QUOTE": "Fordern Sie noch heute Ihr kostenloses Angebot an – wir freuen uns auf Ihre Anfrage!",
+  "PHONE": "Telefon",
+  "ABOUT_US": "Über uns",
+  "ABOUT_US_TITLE1": "Willkommen bei Remzi Hyuseinov Umzug & Reinigung – Ihr zuverlässiger Partner für Umzüge, Entrümpelungen und Reinigungen in Rheinland-Pfalz und darüber hinaus.",
+  "ABOUT_US_TITLE2": "Ob Privatumzug, Firmenumzug oder Haushaltsauflösung – unser erfahrenes Team erledigt jede Aufgabe sorgfältig und effizient.",
+  "BUTTON_PLAY": "Abspielen",
+  "BUTTON_PAUSE": "Pause",
+  "MOVING": "Umzüge",
+  "CLEANING": "Reinigung",
+  "CLEARANCE": "Entrümpelung & Entsorgung",
+  "WHY_CHOOSE_US": "Warum uns wählen?",
+  "AFFORDABLE": "Bezahlbare & transparente Preise – Keine versteckten Kosten",
+  "FAST_AND_EFFICIENT": "Schnell & effizient – Wir arbeiten zügig und zuverlässig",
+  "CLEAN_AND_CAREFUL": "Sauber & sorgfältig – Rücksicht auf Ihr Eigentum",
+  "WEEKEND_AVAILIBILITY": "Wochenendverfügbarkeit – Wir passen uns Ihrem Zeitplan an",
+  "FRIENDLY_AND_PROFESSIONAL": "Freundlicher & professioneller Service",
+  "CUSTOMER_REVIEWS": "Kundenbewertungen",
+  "NO_REVIEWS": "Noch keine Bewertungen verfügbar."
 }
